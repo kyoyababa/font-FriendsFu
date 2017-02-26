@@ -15,6 +15,13 @@ See demonstration from [here](https://kyoyababa.github.io/font-FriendsFu/demo/).
 
 Download each font files from [here](https://github.com/kyoyababa/font-FriendsFu/tree/master/resources).
 
+## Update History
+
+```
+* 20170226 - version.1.0.1: Fix some vector bugs, adjusted each characters baseline.
+* 20170226 - version.1.0.0: Release.
+```
+
 ## Any Problems?
 
 Please make your pull request, thank you.
